@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nde95
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning Rust, Python, Go and Javascript
+- 🌱 I’m currently learning Rust, Go and Javascript
 
 
 <!---

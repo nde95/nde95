@@ -18,7 +18,7 @@ Made in React, this simple webapp was designed for desktop users to look up any 
 
 [Live Version](https://emojidictionary.vercel.app/)
 
-![Emoji Dictionary thumbnail](https://i.imgur.com/vZxTK2b.png)
+![Emoji Dictionary thumbnail](https://i.imgur.com/itnNILZ.png)
 
 ### Desktop Pixel Editor 
 

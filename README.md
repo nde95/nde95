@@ -17,6 +17,7 @@ Made in Angular with FFmpeg for thumbnail generation and firebase as a file host
 Made in React, this simple webapp was designed for desktop users to look up any emoji and copy it to their clipboard by simply clicking on the emoji card. By default 12 random emojis will be displayed, and will immediately render anything that matches the user input in the search bar. 
 
 [Live Version](https://emojidictionary.vercel.app/)
+
 ![Emoji Dictionary thumbnail](https://i.imgur.com/vZxTK2b.png)
 
 ### Desktop Pixel Editor 
@@ -37,6 +38,9 @@ Made in React with a Firebase backend, this is a demo eCommerce website that uti
 ### Face Detective
 
 Made in React with the Clarifai API and using a PostgreSQL database, users can create a new account or sign in with their previous authenticated account to utilize [Clarifai's](https://www.clarifai.com/) face detection model to paste an image via url to locate any recognizable faces within their image (works on groups of people). User inputs are tracked on the home screen.
+
+[Live Version](https://face-detective.onrender.com/)
+![Face detective thumbnail](https://i.imgur.com/SAVj0Of.png)
 
 ### NASA Daily Images 
 

@@ -26,7 +26,6 @@ A React project that utilizes context and state hooks to play tic-tac-toe agains
 Made in React, this simple webapp was designed for desktop users to look up any emoji and copy it to their clipboard by simply clicking on the emoji card. By default 12 random emojis will be displayed, and will immediately render anything that matches the user input in the search bar. 
 
 [Live Version](https://emojidictionary.vercel.app/)
-
 ![Emoji Dictionary thumbnail](https://i.imgur.com/itnNILZ.png)
 
 ### Desktop Pixel Editor 

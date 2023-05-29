@@ -17,7 +17,8 @@ Made in Angular with FFmpeg for thumbnail generation and firebase as a file host
 A React project that utilizes context and state hooks to play tic-tac-toe against a computer player (Toby). The computer player is designed to look for winning moves for either side and react accordingly with the game state. Toby will prioritize his own winning moves first, and if he cannot find a way to win this turn will prioritize blocking you. On win/lose or draw the player is given an option to start first, or give the first turn to Toby. 
 
 [Live version](https://tic-tac-toby.vercel.app/)
-![Tic-Tac-Toby thumnail](https://imgur.com/GbI3vxF)
+
+![Tic-Tac-Toby thumnail](https://imgur.com/GbI3vxF.png)
 
 
 ### Emoji Dictionary

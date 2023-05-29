@@ -17,7 +17,6 @@ Made in Angular with FFmpeg for thumbnail generation and firebase as a file host
 A React project that utilizes context and state hooks to play tic-tac-toe against a computer player (Toby). The computer player is designed to look for winning moves for either side and react accordingly with the game state. Toby will prioritize his own winning moves first, and if he cannot find a way to win this turn will prioritize blocking you. On win/lose or draw the player is given an option to start first, or give the first turn to Toby. 
 
 [Live version](https://tic-tac-toby.vercel.app/)
-
 ![Tic-Tac-Toby thumnail](https://imgur.com/GbI3vxF.png)
 
 
@@ -26,6 +25,7 @@ A React project that utilizes context and state hooks to play tic-tac-toe agains
 Made in React, this simple webapp was designed for desktop users to look up any emoji and copy it to their clipboard by simply clicking on the emoji card. By default 12 random emojis will be displayed, and will immediately render anything that matches the user input in the search bar. 
 
 [Live Version](https://emojidictionary.vercel.app/)
+
 ![Emoji Dictionary thumbnail](https://i.imgur.com/itnNILZ.png)
 
 ### Desktop Pixel Editor 

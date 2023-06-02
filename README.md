@@ -9,7 +9,7 @@
 A React frontend with an automated Python backend that shares a Firestore database to keep track of current 100% off free to keep Steam games and DLC. The Python backend is scheduled to run every day to both add new entries and update games that are no longer free to maintain accuracy. All Steam buttons on the game card will direct you straight to the Steam Store page to claim the free game. Relies on the official Steam web API, and the IsThereAnyDeal API. 
 
 [Live version](https://free-steam-games.vercel.app/)
-![Free Steam Games thumbnail](https://imgur.com/laH6wQ1)
+![Free Steam Games thumbnail](https://imgur.com/laH6wQ1.png)
 
 ### Clipzy 
 

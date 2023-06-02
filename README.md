@@ -4,6 +4,13 @@
 
 # Live Projects
 
+### Free Steam Games 
+
+A React frontend with an automated Python backend that shares a Firestore database to keep track of current 100% off free to keep Steam games and DLC. The Python backend is scheduled to run every day to both add new entries and update games that are no longer free to maintain accuracy. All Steam buttons on the game card will direct you straight to the Steam Store page to claim the free game. Relies on the official Steam web API, and the IsThereAnyDeal API. 
+
+[Live version](https://free-steam-games.vercel.app/)
+![Free Steam Games thumbnail](https://imgur.com/laH6wQ1)
+
 ### Clipzy 
 
 Made in Angular with FFmpeg for thumbnail generation and firebase as a file host. Users can upload their own videos to share with friends via a unique url generated immediately on upload, or just watch them without creating an account. Features a dashboard of all your previous uploads where you can rename clips or delete previous ones, as well as infinite scrolling on the main page.

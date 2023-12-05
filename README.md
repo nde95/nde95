@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nde95
-- 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning Python, C# and Javascript
-- 🤔 I'm planning on learning Rust in the future
+- 👀 I’m interested in Software, Game and Web Development
+- 🌱 I’m currently learning GDScript, C# and Javascript
 
 # Live Projects
 

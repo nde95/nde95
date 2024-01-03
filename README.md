@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nde95
 - 👀 I’m interested in Software, Game and Web Development
-- 🌱 I’m currently learning GDScript and C# for game development, and Javascript with Rust for software and web dev
+- 🌱 I’m currently learning GDScript and C# for game development, and Javascript with Go for software and web dev
 
 # Live Projects
 

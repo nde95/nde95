@@ -15,7 +15,9 @@ A fully responsive React frontend with an automated Python backend that shares a
 
 Live simulation of a "Rock Paper Scissors" style game. Each piece will seek out what its strong again, and attempt to avoid its weakness. When caught, the piece will then be converted to the capturing piece and begin hunting its strength (ex. a paper being captured by a scissors will become a new iteration of scissors and begin hunting other papers). The game is finished when only one style of pieces remains in play. Features standard mode, and chaos mode which will make all spawns random anywhere clamped in the screen space. Allows customizing spawn counts within the menu. 
 
-[Live version](https://rps-tournament.vercel.app/))
+[Live version](https://rps-tournament.vercel.app/)
+
+
 ![RPS thumbnail gif](https://camo.githubusercontent.com/bb758faaa35866e4d1f4e8070ce31475586391fb038f686b536c7ea7151be25e/68747470733a2f2f692e696d6775722e636f6d2f644376307658392e676966)
 
 ### Clipzy 

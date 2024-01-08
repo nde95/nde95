@@ -13,7 +13,7 @@ A fully responsive React frontend with an automated Python backend that shares a
 
 ### RPS Tournament
 
-Live simulation of a "Rock Paper Scissors" style game. Each piece will seek out what its strong again, and attempt to avoid its weakness. When caught, the piece will then be converted to the capturing piece and begin hunting its strength (ex. a paper being captured by a scissors will become a new iteration of scissors and begin hunting other papers). The game is finished when only one style of pieces remains in play. Features standard mode, and chaos mode which will make all spawns random anywhere clamped in the screen space. Allows customizing spawn counts within the menu. 
+Live simulation of a "Rock Paper Scissors" style game. Each piece will seek out what its strong again, and attempt to avoid its weakness. When caught, the piece will then be converted to the capturing piece and begin hunting its strength (ex. a paper being captured by a scissors will become a new iteration of scissors and begin hunting other papers). The game is finished when only one style of pieces remains in play. Features standard mode, and chaos mode which will make all spawns random anywhere clamped in the screen space. Allows customizing spawn counts within the menu. Made in React + Vite with a responsive design of being contained within the screenspace of the browser being used by the device. 
 
 [Live version](https://rps-tournament.vercel.app/)
 

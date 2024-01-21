@@ -8,7 +8,8 @@
 
 Chat Web Application built with Next.js 14 and TypeScript. This application provides a real-time chatting experience, powered by Pusher.js and is integrated NextAuth for account management and social actions with Google and Github, together with MongoDB and Prisma/axios for efficient data storage. The project incorporates clsx, Cloudinary, react-forms and many more for a polished and user-friendly interface.
 
-
+Check out the [Live demo](https://chatapp-seven-silk.vercel.app/).
+![Preview](https://imgur.com/mU5tZVB.png)
 
 ### Free Steam Games 
 

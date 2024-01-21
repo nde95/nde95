@@ -4,6 +4,12 @@
 
 # Live Projects
 
+### Messenger Web Chat
+
+Chat Web Application built with Next.js 14 and TypeScript. This application provides a real-time chatting experience, powered by Pusher.js and is integrated NextAuth for account management and social actions with Google and Github, together with MongoDB and Prisma/axios for efficient data storage. The project incorporates clsx, Cloudinary, react-forms and many more for a polished and user-friendly interface.
+
+
+
 ### Free Steam Games 
 
 A fully responsive React frontend with an automated Python backend that shares a Firestore database to keep track of current 100% off free to keep Steam games and DLC. The Python backend is scheduled to run every day to both add new entries and update games that are no longer free to maintain accuracy. All Steam buttons on the game card will direct you straight to the Steam Store page to claim the free game. Relies on the official Steam web API, and the IsThereAnyDeal API. 

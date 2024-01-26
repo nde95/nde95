@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nde95
 - 👀 I’m interested in mostly in Web Development
 - 🌱 I’m currently learning Javascript/Typescript and Python for Web Dev
+- 💪 React Enjoyer
 
 
 <!---

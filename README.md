@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nde95
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently using Javascript/Typescript and PHP for Web Dev
-- 🧐 I'm currently learning Laravel
+- 🧐 I'm currently learning Laravel and Java
 - 💪 React Enjoyer
 
 

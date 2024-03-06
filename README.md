@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently using Javascript/Typescript and PHP for Web Dev
 - 🧐 I'm currently learning Laravel and Java
-- 💪 React Enjoyer
 
 
 <!---

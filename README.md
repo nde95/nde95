@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nde95
 - 👀 I’m interested in Web Development and Software Engineering
 - 🌱 I’m currently using Javascript/Typescript and PHP for Web Dev
-- 🧐 I'm currently learning Laravel and Java
-- 👨‍🎓 I'm a Software Engineering student
+- 🧐 I'm currently learning Java/Spring Boot
+- 👨‍🎓 I'm a Software Engineering student at university
 
 
 <!---

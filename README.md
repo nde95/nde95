@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nde95
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently using Javascript/Typescript and PHP for Web Dev
+- 👀 I’m interested in Web focused Software Engineering
+- 🌱 I’m currently using Javascript/Typescript and Java
 - 🧐 I'm currently learning Java/Spring Boot and C++
 - 👨‍🎓 I'm a Computer Science student at university
 
